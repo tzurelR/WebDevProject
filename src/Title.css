@@ -1,0 +1,25 @@
+.title {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    padding: 10px;
+    background-color: #ff8686;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.cartBtn {
+    margin-left: 100px;
+}
+
+.cartBtn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: #93ff93;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
